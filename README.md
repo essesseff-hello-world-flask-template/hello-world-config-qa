@@ -6,7 +6,7 @@ Helm chart for QA environment.
 
 - **Environment**: QA
 - **Auto-Deploy**: Yes (typically by QA Engineer decision via essesseff)
-- **Namespace**: `essesseff-hello-world-flask-template`
+- **Namespace**: `{{K8S_NAMESPACE}}`
 
 ## Updates
 
